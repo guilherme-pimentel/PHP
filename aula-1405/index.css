@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background-color: rgb(243, 242, 253);
+}
+
+h1{
+    background-color: aqua;
+}
+
+h2{
+    background-color: aquamarine;
+}
+
+pre{
+    background-color: antiquewhite;
+}
